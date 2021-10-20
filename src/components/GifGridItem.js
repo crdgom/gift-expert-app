@@ -10,3 +10,5 @@ export const GifGridItem = ({id, title, url}) => {
         </div>
     )
 }
+
+
